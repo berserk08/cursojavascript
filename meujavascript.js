@@ -33,3 +33,19 @@
 // console.log(minhastring);
 
 
+//aula3
+
+// let nome = prompt("digite seu nome");
+
+// let sobreNome = prompt("digite seu sobrenome");
+
+// let idade = prompt("digite sua idade");
+
+// let salario = prompt("informe seu salario");
+
+// let salario2 = ((70-idade) *12 .toFixed(2));
+// let filhos = prompt("quantos filhos voce tem?")
+
+// let filhos2 = (salario/filhos)
+
+// console.log(`ola ${nome} voce tem ${idade} anos de idade, seu salario e R$ ${salario} e recebera R$ ${salario2} ate se aposentar.`)
